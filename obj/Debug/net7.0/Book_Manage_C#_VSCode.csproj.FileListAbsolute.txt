@@ -1,0 +1,15 @@
+D:\Book_Manage_C#_VSCode\bin\Debug\net7.0\Book_Manage_C#_VSCode.exe
+D:\Book_Manage_C#_VSCode\bin\Debug\net7.0\Book_Manage_C#_VSCode.deps.json
+D:\Book_Manage_C#_VSCode\bin\Debug\net7.0\Book_Manage_C#_VSCode.runtimeconfig.json
+D:\Book_Manage_C#_VSCode\bin\Debug\net7.0\Book_Manage_C#_VSCode.dll
+D:\Book_Manage_C#_VSCode\bin\Debug\net7.0\Book_Manage_C#_VSCode.pdb
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.csproj.AssemblyReference.cache
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.AssemblyInfoInputs.cache
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.AssemblyInfo.cs
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.csproj.CoreCompileInputs.cache
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.dll
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\refint\Book_Manage_C#_VSCode.dll
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.pdb
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\Book_Manage_C#_VSCode.genruntimeconfig.cache
+D:\Book_Manage_C#_VSCode\obj\Debug\net7.0\ref\Book_Manage_C#_VSCode.dll

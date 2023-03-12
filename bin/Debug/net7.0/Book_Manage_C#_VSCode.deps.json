@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Book_Manage_C#_VSCode/1.0.0": {
+        "runtime": {
+          "Book_Manage_C#_VSCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Book_Manage_C#_VSCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
